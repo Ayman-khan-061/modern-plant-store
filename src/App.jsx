@@ -5,12 +5,11 @@ import TopSelling from "./sections/TopSelling";
 import CustomerReview from "./sections/CustomerReview";
 import BestO2 from "./sections/BestO2";
 import Footer from "./sections/Footer";
-import Plant2 from "./assets/plant2.png";
+import Plant2 from "./assets/Plant2.png";
 
 function App() {
   return (
     <div className="bg-[#071207] text-white font-sans">
-    
       <div className="relative">
         {/* Big background plant — covers both hero and trendy sections */}
         <img
@@ -30,7 +29,6 @@ function App() {
         </div>
       </div>
 
-      
       <TopSelling />
       <CustomerReview />
       <BestO2 />
