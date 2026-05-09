@@ -1,4 +1,4 @@
-import Plant3 from "../assets/Plant3.png";
+import plant3 from "../assets/Plant3.png";
 import reviewerAvatar from "../assets/Plant1.webp";
 
 function HeroSection() {
