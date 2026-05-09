@@ -1,5 +1,5 @@
-import plant3 from "../assets/plant3.png";
-import reviewerAvatar from "../assets/plant1.webp";
+import Plant3 from "../assets/Plant3.png";
+import reviewerAvatar from "../assets/Plant1.webp";
 
 function HeroSection() {
   return (

@@ -1,6 +1,6 @@
-import avatar1 from "../assets/plant1.webp";
-import avatar2 from "../assets/plant2.png";
-import avatar3 from "../assets/plant3.png";
+import avatar1 from "../assets/Plant1.webp";
+import avatar2 from "../assets/Plant2.png";
+import avatar3 from "../assets/Plant3.png";
 
 const reviews = [
   {

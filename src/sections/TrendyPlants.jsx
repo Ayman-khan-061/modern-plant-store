@@ -1,5 +1,5 @@
-import plant4 from "../assets/plant4.png";
-import plant5 from "../assets/plant5.webp";
+import Plant4 from "../assets/Plant4.png";
+import Plant5 from "../assets/Plant5.webp";
 
 function TrendyPlants() {
   return (

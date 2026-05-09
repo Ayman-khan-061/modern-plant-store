@@ -1,9 +1,9 @@
-import p1 from "../assets/plant1.webp";
-import p2 from "../assets/plant2.png";
-import p3 from "../assets/plant3.png";
-import p4 from "../assets/plant4.png";
-import p5 from "../assets/plant5.webp";
-import p6 from "../assets/plant6.webp";
+import p1 from "../assets/Plant1.webp";
+import p2 from "../assets/Plant2.png";
+import p3 from "../assets/Plant3.png";
+import p4 from "../assets/Plant4.png";
+import p5 from "../assets/Plant5.webp";
+import p6 from "../assets/Plant6.webp";
 
 const plants = [
   {
@@ -53,7 +53,6 @@ const plants = [
 function TopSelling() {
   return (
     <section className="px-6 md:px-10 py-16 max-w-7xl mx-auto">
-      
       <div className="flex justify-center mb-14">
         <h2 className="relative text-2xl font-semibold px-6 py-2">
           <span className="absolute left-0 top-0 w-4 h-4 border-l-2 border-t-2 border-green-400 rounded-tl-md" />

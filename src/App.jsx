@@ -5,7 +5,7 @@ import TopSelling from "./sections/TopSelling";
 import CustomerReview from "./sections/CustomerReview";
 import BestO2 from "./sections/BestO2";
 import Footer from "./sections/Footer";
-import plant2 from "./assets/plant2.png";
+import Plant2 from "./assets/plant2.png";
 
 function App() {
   return (

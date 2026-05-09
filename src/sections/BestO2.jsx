@@ -1,4 +1,4 @@
-import plantImg from "../assets/plant4.png";
+import plantImg from "../assets/Plant4.png";
 
 function BestO2() {
   return (
